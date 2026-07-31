@@ -19,3 +19,15 @@ Scripts in this package:
 | pre_processing_techniques.py | This is a rough script used for testing out potential pre-processing strategies  |  |
 | missing_image.py | This is a logic to check if there are any missing labels in an image in the dataset | NA |
 |  |  |  |
+
+  
+## Steps to Run the Code
+
+Step 1: Clone the repository to your system/editor using the command [e.g.: git clone https://github.com/user/repository.git]
+
+Step 2: Create your virtual environment and run [pip install requirements.txt]
+
+Step 3: Map your datasets in the given yaml files as per need. Beware of old file paths in the scripts and change accordingly!
+
+Step 4: run the code as follows: python [name_of_script.py] or python3 [name_of_script.py]
+
