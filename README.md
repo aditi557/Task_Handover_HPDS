@@ -31,3 +31,12 @@ Step 3: Map your datasets in the given yaml files as per need. Beware of old fil
 
 Step 4: run the code as follows: python [name_of_script.py] or python3 [name_of_script.py]
 
+## Existing files included for inference comparison
+
+List of Models:
+1. icf_yolov8n.py
+2. engine_best.pt
+3. lhb_day.pt
+
+
+
