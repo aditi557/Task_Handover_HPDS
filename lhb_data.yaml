@@ -1,0 +1,17 @@
+path: C:/Users/aditi/Desktop/lhb_test_dataset/night
+
+train: images
+val: images
+test: images
+
+names:
+  [
+    "Control Arm",
+    "Earthing Cable",
+    "Water Tank",
+    "Coil Spring",
+    "Yaw Damper",
+    "Vertical Damper",
+    "Sensor Cable",
+    "Motor Pump"
+  ]

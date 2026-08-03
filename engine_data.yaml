@@ -1,0 +1,15 @@
+path: C:/Users/aditi/Desktop/Engine_Data_Final/
+
+train: train/images
+val: val/images
+test: test/images
+
+names:
+  [
+    "Sander Pipe",
+    "Air Hose Pipe",
+    "Coupler",
+    "Carrier",
+    "Brake Rod",
+    "Rail Guard"
+  ]

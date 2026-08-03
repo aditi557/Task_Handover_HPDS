@@ -1,0 +1,18 @@
+path: C:/Users/aditi/Desktop/icf_daataset/
+
+train: images
+val: images
+test: test_folder/images
+# test: images
+
+
+names:
+  [
+      "Primary Suspension",
+      "Secondary Suspension",
+      "Bss Hangar",
+      "Bottom Spring Plank",
+      "Vertical Shock Absorber",
+      "Axle Box"
+  ]
+
