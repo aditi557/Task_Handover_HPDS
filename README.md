@@ -16,7 +16,7 @@ Scripts in this package:
 | engine_data.yaml | This contains the list of objects for Engine type | NA |
 | testing_yolo.py | A rough script for testing a single image - day or night | NA |
 | testing_directory.py | Testing the model on the entire test folder | Trained best model |
-| pre_processing_techniques.py | This is a rough script used for testing out potential pre-processing strategies  |  |
+| preprocessing_techniques.py | This is a rough script used for testing out potential pre-processing strategies  |  |
 | missing_image.py | This is a logic to check if there are any missing labels in an image in the dataset | NA |
 |  |  |  |
 
